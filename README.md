@@ -1,21 +1,21 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deep!](https://github.com/deep1910)
 
 <a href="https://www.linkedin.com/in/deep-pande-812576204">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
 </a>
 <a href="https://twitter.com/DeepPande7">
   <img align="left" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png" />
 </a>
 <a href="mailto:deeppande2117@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/fluency/344/gmail-new.png" />
 </a>
 
 <a href="">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/color-glass/344/medium-logo.png" />
 </a>
 
 <a href="https://www.instagram.com/d_pande19">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/color/344/instagram-new--v1.png" />
 </a>
 
 <br />
