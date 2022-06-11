@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/deep-pande-812576204">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/DeepPande7">
+  <img align="left" width="26px" src="https://img.icons8.com/ios/344/twitter--v1.png" />
 </a>
 <a href="mailto:deeppande2117@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
