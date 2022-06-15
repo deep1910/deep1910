@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm [Deep!](https://github.com/deep1910)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deep!](https://github.com/deep1910)
 
 <a href="https://www.linkedin.com/in/deep-pande-812576204">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
