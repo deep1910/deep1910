@@ -18,6 +18,10 @@
   <img align="left" width="26px" src="https://img.icons8.com/color/344/instagram-new--v1.png" />
 </a>
 
+<a href="https://leetcode.com/Deep_2117/">
+  <img align="left" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
+</a>
+
 <br />
 
 ### About Me 🚀
