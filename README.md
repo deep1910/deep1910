@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deep!](https://github.com/deep1910)
-
+<a href="https://app.daily.dev/deep"><img src="https://api.daily.dev/devcards/c20be543457e461f9c4140e066a63a0f.png?r=4n0" width="400" alt="Deep Pande's Dev Card"/></a>
 <a href="https://www.linkedin.com/in/deep-pande-812576204">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
 </a>
