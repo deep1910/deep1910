@@ -9,8 +9,8 @@
   <img align="left" width="26px" src="https://img.icons8.com/fluency/344/gmail-new.png" />
 </a>
 
-<a href="">
-  <img align="left" width="26px" src="https://img.icons8.com/color-glass/344/medium-logo.png" />
+<a href="https://deeppande.hashnode.dev/">
+  <img align="left" width="26px" src="https://img.icons8.com/color/512/hashnode.png" />
 </a>
 
 <a href="https://www.instagram.com/d_pande19">
@@ -28,4 +28,4 @@
 ### About Me 🚀
 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Web Dev, and programming languages & I enjoy learning new thing's by forking. </br>
+👨‍💻 I am passionate about Web Dev, and Frontend & I enjoy learning new thing's by forking. </br>
