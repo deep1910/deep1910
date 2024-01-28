@@ -39,6 +39,6 @@
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush714&show_icons=true&locale=en" alt="deep1910" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep1910&show_icons=true&locale=en" alt="deep1910" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush714&" alt="deep1910" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1910&" alt="deep1910" /></p>
