@@ -1,9 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deep!](https://github.com/deep1910)
+<div align="left">
 <a href="https://www.linkedin.com/in/deep-pande-812576204">
-  <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 <a href="https://twitter.com/DeepPande7">
-  <img align="left" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </a>
 <a href="mailto:deeppande2117@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/fluency/344/gmail-new.png" />
@@ -14,41 +15,137 @@
 </a>
 
 <a href="https://www.instagram.com/d_pande19">
-  <img align="left" width="26px" src="https://img.icons8.com/color/344/instagram-new--v1.png" />
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </a>
 
 <a href="https://leetcode.com/Deep_2117/">
   <img align="left" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
 </a>
+<a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</a>
+<a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</a>
+<a>
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+</a>
+</div>
 
-<br />
-  <br></br>
+
+
+
+###
+
+
+
+
+ 
+  
+ 
+
+
+
+
+
+
+  
 
 
 ### About Me 🚀
 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Web Dev, and Frontend & I enjoy learning new thing's by forking. </br>
+👨‍💻 I am passionate about  Frontend  &  Machine Learning ,I enjoy learning new thing's by forking. </br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt="js" width="40" height="40" /><a>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"   alt="react" width="40" height="40" /></a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep1910&show_icons=true&locale=en" alt="deep1910" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep1910" alt="deep1910 /> </p>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1910&" alt="deep1910" /> 
+
+###
 
 
 
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-![](https://komarev.com/ghpvc/?username=deep1910)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=deep1910&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=deep1910&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deep1910&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deep1910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep1910&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/deep1910/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=deeppande2117&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/deep1910/deep1910/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=deeppande2117" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
