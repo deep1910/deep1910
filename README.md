@@ -42,8 +42,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep1910&show_icons=true&locale=en" alt="deep1910" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1910&" alt="deep1910" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep1910" alt="deep1910 /> </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1910&" alt="deep1910" /> 
+
 
 
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
