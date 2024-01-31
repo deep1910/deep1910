@@ -6,29 +6,13 @@
 <a href="https://twitter.com/DeepPande7">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </a>
-<a href="mailto:deeppande2117@gmail.com">
-  <img align="left" width="26px" src="https://img.icons8.com/fluency/344/gmail-new.png" width="52" height="40" />
-</a>
 
 <a href="https://deeppande.hashnode.dev/">
-  <img align="left" width="26px" src="https://img.icons8.com/color/512/hashnode.png" width="52" height="40" />
+  <img  width="52" height="40" src="https://img.icons8.com/color/512/hashnode.png" width="52" height="40" />
 </a>
 
-<a href="https://www.instagram.com/d_pande19">
+<a href="https://www.instagram.com/d_p7112/">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
-
-<a href="https://leetcode.com/Deep_2117/">
-  <img align="left" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
-</a>
-<a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</a>
-<a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</a>
-<a>
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </a>
 </div>
 
