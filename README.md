@@ -1,18 +1,17 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Deep
 <div align="left">
-<a href="https://www.linkedin.com/in/deep-pande-812576204">
+<a href="https://www.linkedin.com/in/deep-pande-6bb86521b/">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin logo"  />
 </a>
-<a href="https://twitter.com/DeepPande7">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+<a href="https://x.com/DeepPande7">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" width="40" height="40" alt="twitter logo"  />
 </a>
-
 <a href="https://deeppande.hashnode.dev/">
-  <img  width="52" height="40" src="https://img.icons8.com/color/512/hashnode.png" width="52" height="40" />
+  <img  width="40" height="40" src="https://img.icons8.com/color/512/hashnode.png"  />
 </a>
 
 <a href="https://www.instagram.com/d_p7112/">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
 </a>
 </div>
 
